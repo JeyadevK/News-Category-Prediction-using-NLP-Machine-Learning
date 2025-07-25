@@ -28,10 +28,12 @@ This project aims to classify news stories into categories based on their textua
 ```bash
 git clone https://github.com/JeyadevK/News-Category-Prediction-using-NLP-Machine-Learning
 cd News-Category-Prediction-using-NLP-Machine-Learning
+```
 
-**### 2. Run the script**
+### 2. Run the script
 ```bash
 python Predict_The_News_Category.py
+```
 
-**### 3. Output**
+### 3. Output
 Predictions will be saved in outputs/predictions.csv.

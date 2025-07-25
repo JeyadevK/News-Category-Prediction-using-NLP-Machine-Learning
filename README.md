@@ -26,5 +26,5 @@ This project aims to classify news stories into categories based on their textua
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/JeyadevK/news-category-prediction.git
-cd news-category-prediction
+git clone https://github.com/JeyadevK/News-Category-Prediction-using-NLP-Machine-Learning
+cd News-Category-Prediction-using-NLP-Machine-Learning
